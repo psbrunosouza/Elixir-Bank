@@ -1,21 +1,17 @@
-# Bank
+# App Bank
 
-**TODO: Add description**
+### Objective
 
-## Installation
+We've been made this simple application to learn some basic 
+structures in the Elixir language, like:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `bank` to your list of dependencies in `mix.exs`:
+- Primitive types
+- Functions and Modules
+- Conditions
+- Pattern Matching
+- And more...
 
-```elixir
-def deps do
-  [
-    {:bank, "~> 0.1.0"}
-  ]
-end
-```
+### About app
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/bank](https://hexdocs.pm/bank).
-
+It's a simple bank app to create a Bank account and 
+do transfer.
